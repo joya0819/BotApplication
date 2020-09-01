@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BotApp01</string>
+    <string name="hint_name">URLを入力</string>
+</resources>
